@@ -1,0 +1,4 @@
+# mpfshell -s upload.mpf
+open ttyUSB0
+put main.py
+put wifi.txt
